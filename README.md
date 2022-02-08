@@ -175,6 +175,7 @@ These are the list of first time contributors :raised_hands:
 -   ### **P** <br>
 -   ### **Q** <br>
 -   ### **R** <br>
+[Raj Deep](https://github.com/Rajdeep9519)
 -   ### **S** <br>
     -   [Sophiya Singh](https://github.com/sophiya02)
 -   ### **T** <br>
