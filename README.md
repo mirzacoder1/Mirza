@@ -182,6 +182,7 @@ These are the list of first time contributors :raised_hands:
     -   [Tushar Kesarwani](https://github.com/TusharKesarwani)
 -   ### **U** <br>
 -   ### **V** <br>
+    -   [Vagisha Singh](https://github.com/vagisha01)
 -   ### **W** <br>
 -   ### **X** <br>
 -   ### **Y** <br>
