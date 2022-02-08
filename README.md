@@ -178,6 +178,7 @@ These are the list of first time contributors :raised_hands:
 -   ### **S** <br>
     -   [Sophiya Singh](https://github.com/sophiya02)
 -   ### **T** <br>
+    -   [Tushar Kesarwani](https://github.com/TusharKesarwani)
 -   ### **U** <br>
 -   ### **V** <br>
 -   ### **W** <br>
