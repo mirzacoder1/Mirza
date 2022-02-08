@@ -167,10 +167,10 @@ These are the list of first time contributors :raised_hands:
 -   ### **I** <br>
 -   ### **J** <br>
 -   ### **K** <br>
--        [KUSHAGRA SHUKLA](https://github.com/SHUKLA-KUSHAGRA)
+     -   [KUSHAGRA SHUKLA](https://github.com/SHUKLA-KUSHAGRA)
 -   ### **L** <br>
 -   ### **M** <br>
-         [Maria Khan](https://github.com/missusk)
+     -   [Maria Khan](https://github.com/missusk)
 -   ### **N** <br>
      -   [Naveen kushwaha](https://github.com/naveen3011)
 -   ### **O** <br>
