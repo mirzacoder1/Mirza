@@ -171,7 +171,7 @@ These are the list of first time contributors :raised_hands:
 -   ### **L** <br>
 -   ### **M** <br>
      -   [Maria Khan](https://github.com/missusk)
-     -   [Mirza Zabbar Yunus](https://mirzacoder1.github.io/mycodes/)
+     -   [Mirza Zabbar Yunus](https://github.com/mirzacoder1)
 -   ### **N** <br>
      -   [Naveen kushwaha](https://github.com/naveen3011)
 -   ### **O** <br>
